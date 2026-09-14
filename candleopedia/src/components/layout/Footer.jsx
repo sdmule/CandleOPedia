@@ -12,7 +12,7 @@ function Footer() {
           <div className="row py-4">
             <div className="col-md-6">
               <p className="mb-0 text-white-50 small">
-                © 2025 CandleOPedia. All rights reserved.
+                © 2026 CandleOPedia. All rights reserved.
               </p>
             </div>
             <div className="col-md-6 text-md-end">
